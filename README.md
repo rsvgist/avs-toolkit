@@ -1,9 +1,12 @@
-# hackathon demos
+# hackathon demo
 task address: `layer16ss5mq4u6ja48w4v083y63xw39rad6z40twfanh53ly907kkqtqsq6a7sg`
+
 task name: `sine` (basic squaring example)
 
 
-
+### Future work
+ - audio worklet/streaming could be cool? 
+ - add a spiffy ui
 
 
 ## AVS Toolkit
